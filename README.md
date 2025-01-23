@@ -7,8 +7,9 @@ write:
        cd frontend
        npm run dev
 
-       ![slika5](https://github.com/user-attachments/assets/b5f5e903-5f57-4100-a1e7-41d040cd498b)
-       ![slika4](https://github.com/user-attachments/assets/9089e087-e3b4-4dfb-9234-32689fdef098)
 
 
 
+![slika5](https://github.com/user-attachments/assets/d80a9f3c-b1bd-4ffc-9673-be42cdff9098)
+
+![slika4](https://github.com/user-attachments/assets/fdefbafd-732a-429d-a1e7-63a83eed0ea3)
