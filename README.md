@@ -10,6 +10,7 @@ write:
 
 
 
-![slika5](https://github.com/user-attachments/assets/d80a9f3c-b1bd-4ffc-9673-be42cdff9098)
+![image](https://github.com/user-attachments/assets/e66605da-19c0-46c6-8cd7-bb015246ff6a)
+
 
 ![slika4](https://github.com/user-attachments/assets/fdefbafd-732a-429d-a1e7-63a83eed0ea3)
