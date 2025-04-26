@@ -12,5 +12,5 @@ write:
 
 ![image](https://github.com/user-attachments/assets/e66605da-19c0-46c6-8cd7-bb015246ff6a)
 
+![image](https://github.com/user-attachments/assets/4f9ebd98-f80f-4229-82e3-a586dac4224b)
 
-![slika4](https://github.com/user-attachments/assets/fdefbafd-732a-429d-a1e7-63a83eed0ea3)
